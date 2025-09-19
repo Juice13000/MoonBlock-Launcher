@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "moonblock-launcher",
   "version": "2.2.1",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "MoonBlock Launcher",
+  "description": "Launcher du serveur MoonBlock",
+  "author": "Juice13000 (https://github.com/juice13000/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/Juice13000/MoonBlock-Launcher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/Juice13000/MoonBlock-Launcher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/Juice13000/MoonBlock-Launcher.git"
   }
 }

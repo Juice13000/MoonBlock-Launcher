@@ -3136,13 +3136,22 @@ input:checked + .toggleSwitchSlider:before {
     transition-delay:0s;
 }
 
-/* X icon colors. */
-#xSVG:hover,
-#xURL:focus #xSVG {
-    fill: #000000;
+/* leak icon colors. */
+#leakSVG:hover,
+#leakURL:focus #xSVG {
+    fill: #c4d80e;
 }
-#xSVG:active {
-    fill: #090909;
+#leakSVG:active {
+    fill: #c4d80e;
+}
+
+/* lore icon colors. */
+#loreSVG:hover,
+#loreURL:focus #xSVG {
+    fill: #753307;
+}
+#loreSVG:active {
+    fill: #753307;
 }
 
 /* Instagram icon colors. */
